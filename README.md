@@ -10,7 +10,7 @@ In addition to having Visual Studio and OpenCV installed, you will need to set t
 3. Grab a base image you want to have scanned and name it `image_base.png` and place it at the base directory for this repo  
 4. Set the pattern image you want to have located and name it `image_pattern.png` and place it at the base directory for this repo  
 
-## Extras needed Visual Studio 2015  
+## Extras needed for Visual Studio 2015  
  
 None of these changes affect `Source.cpp`  
 
